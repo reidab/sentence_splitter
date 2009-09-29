@@ -1,6 +1,6 @@
 = sentence_splitter
 
-Description goes here.
+A port of perl's Lingua::EN::Sentence to Ruby, fortified with test coverage.
 
 == Note on Patches/Pull Requests
  
